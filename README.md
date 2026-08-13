@@ -88,6 +88,10 @@ Sample run result (see `output/ranked_output.csv` for full detail):
 
 ---
 
+**Terminal output from an actual run:**
+
+![Ranked output screenshot](screenshot.png)
+
 ## Design choices & scoring method
 
 **Similarity method:** TF-IDF (unigrams + bigrams) fit jointly over the JD

@@ -1,0 +1,21 @@
+Sneha Kapoor
+sneha.kapoor@example.com
+
+Summary
+Frontend-leaning full stack developer with 2 years of experience, some
+exposure to Python scripting and databases.
+
+Skills
+JavaScript, React, HTML, CSS, Node.js, Python, SQL, Git
+
+Experience
+Full Stack Developer, PixelCraft Studio (2022 - Present)
+- Built React front-ends and small Node.js backend services
+- Wrote occasional Python scripts for data cleanup
+- Basic SQL queries against a MySQL database
+
+Junior Developer, WebNest (2021 - 2022)
+- Maintained company website using HTML/CSS/JavaScript
+
+Education
+B.Sc in Computer Applications, Delhi University, 2021

@@ -1,0 +1,222 @@
+[
+  {
+    "file": "priya_sharma.txt",
+    "name": "Priya Sharma",
+    "skills": [
+      "python",
+      "sql",
+      "postgresql",
+      "flask",
+      "fastapi",
+      "machine learning",
+      "scikit-learn",
+      "pandas",
+      "numpy",
+      "aws",
+      "docker",
+      "ci/cd",
+      "git",
+      "rest api",
+      "data science"
+    ],
+    "education": [
+      "BTECH"
+    ],
+    "years_experience": 3.0,
+    "score": 44.0,
+    "text_similarity_pct": 22.86,
+    "skill_overlap_pct": 93.33,
+    "matched_skills": [
+      "aws",
+      "ci/cd",
+      "docker",
+      "fastapi",
+      "flask",
+      "git",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "postgresql",
+      "python",
+      "rest api",
+      "scikit-learn",
+      "sql"
+    ],
+    "missing_skills": [
+      "pytorch"
+    ],
+    "reasoning": "Overall text/content similarity to the JD is 22.9%. Matches 14 required skill(s): aws, ci/cd, docker, fastapi, flask, git, machine learning, numpy, pandas, postgresql, python, rest api, scikit-learn, sql. Missing: pytorch. States 3.0 years of experience. Education mentions: BTECH.",
+    "rank": 1
+  },
+  {
+    "file": "arjun_mehta.txt",
+    "name": "Arjun Mehta",
+    "skills": [
+      "python",
+      "sql",
+      "postgresql",
+      "mysql",
+      "django",
+      "flask",
+      "machine learning",
+      "pytorch",
+      "scikit-learn",
+      "aws",
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "git",
+      "rest api"
+    ],
+    "education": [
+      "MTECH"
+    ],
+    "years_experience": 4.0,
+    "score": 40.72,
+    "text_similarity_pct": 23.89,
+    "skill_overlap_pct": 80.0,
+    "matched_skills": [
+      "aws",
+      "ci/cd",
+      "docker",
+      "flask",
+      "git",
+      "machine learning",
+      "postgresql",
+      "python",
+      "pytorch",
+      "rest api",
+      "scikit-learn",
+      "sql"
+    ],
+    "missing_skills": [
+      "fastapi",
+      "numpy",
+      "pandas"
+    ],
+    "reasoning": "Overall text/content similarity to the JD is 23.9%. Matches 12 required skill(s): aws, ci/cd, docker, flask, git, machine learning, postgresql, python, pytorch, rest api, scikit-learn, sql. Missing: fastapi, numpy, pandas. States 4.0 years of experience. Education mentions: MTECH.",
+    "rank": 2
+  },
+  {
+    "file": "karan_singh.txt",
+    "name": "Karan Singh",
+    "skills": [
+      "python",
+      "sql",
+      "postgresql",
+      "machine learning",
+      "scikit-learn",
+      "pandas",
+      "numpy",
+      "git",
+      "data science"
+    ],
+    "education": [
+      "BTECH"
+    ],
+    "years_experience": 0.0,
+    "score": 31.17,
+    "text_similarity_pct": 21.67,
+    "skill_overlap_pct": 53.33,
+    "matched_skills": [
+      "git",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "postgresql",
+      "python",
+      "scikit-learn",
+      "sql"
+    ],
+    "missing_skills": [
+      "aws",
+      "ci/cd",
+      "docker",
+      "fastapi",
+      "flask",
+      "pytorch",
+      "rest api"
+    ],
+    "reasoning": "Overall text/content similarity to the JD is 21.7%. Matches 8 required skill(s): git, machine learning, numpy, pandas, postgresql, python, scikit-learn, sql. Missing: aws, ci/cd, docker, fastapi, flask, pytorch, rest api. Education mentions: BTECH.",
+    "rank": 3
+  },
+  {
+    "file": "sneha_kapoor.txt",
+    "name": "Sneha Kapoor",
+    "skills": [
+      "python",
+      "javascript",
+      "sql",
+      "mysql",
+      "react",
+      "node.js",
+      "git",
+      "html",
+      "css"
+    ],
+    "education": [
+      "BSC"
+    ],
+    "years_experience": 2.0,
+    "score": 11.43,
+    "text_similarity_pct": 7.76,
+    "skill_overlap_pct": 20.0,
+    "matched_skills": [
+      "git",
+      "python",
+      "sql"
+    ],
+    "missing_skills": [
+      "aws",
+      "ci/cd",
+      "docker",
+      "fastapi",
+      "flask",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "postgresql",
+      "pytorch",
+      "rest api",
+      "scikit-learn"
+    ],
+    "reasoning": "Overall text/content similarity to the JD is 7.8%. Matches 3 required skill(s): git, python, sql. Missing: aws, ci/cd, docker, fastapi, flask, machine learning, numpy, pandas, postgresql, pytorch, rest api, scikit-learn. States 2.0 years of experience. Education mentions: BSC.",
+    "rank": 4
+  },
+  {
+    "file": "rahul_verma.txt",
+    "name": "Rahul Verma",
+    "skills": [
+      "excel",
+      "project management",
+      "communication"
+    ],
+    "education": [
+      "MBA"
+    ],
+    "years_experience": 5.0,
+    "score": 1.27,
+    "text_similarity_pct": 1.82,
+    "skill_overlap_pct": 0.0,
+    "matched_skills": [],
+    "missing_skills": [
+      "aws",
+      "ci/cd",
+      "docker",
+      "fastapi",
+      "flask",
+      "git",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "postgresql",
+      "python",
+      "pytorch",
+      "rest api",
+      "scikit-learn",
+      "sql"
+    ],
+    "reasoning": "Overall text/content similarity to the JD is 1.8%. No directly matching required skills were found in the resume text. Missing: aws, ci/cd, docker, fastapi, flask, git, machine learning, numpy, pandas, postgresql, python, pytorch, rest api, scikit-learn, sql. States 5.0 years of experience. Education mentions: MBA.",
+    "rank": 5
+  }
+]

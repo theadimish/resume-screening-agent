@@ -1,0 +1,19 @@
+Karan Singh
+karan.singh@example.com
+
+Summary
+Recent graduate with internship experience in Python development and a
+strong academic background in machine learning.
+
+Skills
+Python, machine learning, scikit-learn, pandas, numpy, SQL, Git,
+data science
+
+Experience
+Machine Learning Intern, InsightAI (Jun 2024 - Dec 2024)
+- Built data preprocessing pipelines using pandas and numpy
+- Trained classification models using scikit-learn
+- Wrote SQL queries to pull training data from PostgreSQL
+
+Education
+B.Tech in Computer Science, VIT Vellore, 2024

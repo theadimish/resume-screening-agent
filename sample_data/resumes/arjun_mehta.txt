@@ -1,0 +1,26 @@
+Arjun Mehta
+arjun.mehta@example.com
+
+Objective
+Python backend engineer with 4 years experience, passionate about machine
+learning driven products.
+
+Technical Skills
+- Languages: Python, SQL
+- Frameworks: Flask, Django
+- ML: scikit-learn, pytorch, machine learning
+- Tools: Docker, Git, AWS, Kubernetes
+- Databases: PostgreSQL, MySQL
+
+Work Experience
+Senior Backend Developer, DataForge Inc (2021 - Present)
+4 years experience building REST APIs and deploying ML models to production
+using Docker and Kubernetes on AWS. Wrote automated tests and set up CI/CD
+pipelines.
+
+Backend Developer, StartupX (2019 - 2021)
+Built REST API services in Flask backed by PostgreSQL, worked closely with
+data scientists to productionize pytorch models.
+
+Education
+M.Tech in Computer Science, IIT Roorkee, 2019

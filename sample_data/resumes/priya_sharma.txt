@@ -1,0 +1,24 @@
+Priya Sharma
+Email: priya.sharma@example.com | Phone: 98765-43210
+
+Summary
+Backend developer with 3 years of experience building Python web services
+and integrating machine learning models into production.
+
+Skills
+Python, Flask, FastAPI, PostgreSQL, SQL, scikit-learn, pandas, numpy,
+Docker, Git, REST API, AWS, CI/CD
+
+Experience
+Backend Developer, Nimbus Tech (2022 - Present)
+- Built and maintained REST APIs in FastAPI serving 50k+ requests/day
+- Integrated a scikit-learn fraud-detection model into the payments service
+- Wrote PostgreSQL queries and optimized slow endpoints
+- Set up Docker-based deployment and a basic CI/CD pipeline on GitHub Actions
+
+Software Engineer, Bright Labs (2021 - 2022)
+- Developed internal tools using Flask and SQL
+- Collaborated with data science team on model integration
+
+Education
+B.Tech in Computer Science, Anna University, 2021

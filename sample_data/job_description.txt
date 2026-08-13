@@ -1,0 +1,28 @@
+Job Title: Backend Python Developer (Machine Learning Focus)
+
+We are hiring a Backend Python Developer with a strong interest in machine
+learning to join our growing engineering team.
+
+Responsibilities:
+- Design and build REST APIs using Python (Flask or FastAPI)
+- Work with SQL databases (PostgreSQL) to store and query application data
+- Build and integrate machine learning models into production services
+- Collaborate with data scientists to deploy models using scikit-learn / pytorch
+- Write clean, tested, maintainable code and participate in code review
+- Deploy services using Docker and basic CI/CD pipelines
+
+Required Skills:
+- Strong proficiency in Python
+- Experience with Flask or FastAPI
+- SQL / PostgreSQL experience
+- Familiarity with machine learning concepts and scikit-learn
+- Git version control
+- REST API design experience
+
+Nice to Have:
+- Experience with Docker and CI/CD
+- Exposure to AWS or another cloud provider
+- Familiarity with pandas and numpy for data handling
+
+Education: Bachelor's degree in Computer Science or a related field.
+Experience: 2+ years of professional software development experience.

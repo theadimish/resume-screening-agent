@@ -166,3 +166,7 @@ resume-screening-agent/
   can clone this repo and reproduce the exact sample output.
 - CLI only (no UI) — per the brief, a clean CLI that clearly demonstrates
   the agent is sufficient.
+
+## Notes
+
+Tested successfully on Windows with Python 3.9 — ran end-to-end without issues.
